@@ -22,6 +22,7 @@ title: Motthi's Website
 email: k11000660@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ISASで研究している学生（修士），専門は惑星探査ローバ
+avatar: img/ARLISS_TUS.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Motthi20
