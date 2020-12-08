@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ISASで研究中の学生（修士）です．
+## 専門
+惑星探査ローバのナビゲーション
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 学歴
+海陽中等教育学校（2016卒）  
+東京理科大学理工学部電気電子情報工学科（2020卒）  
+東京大学大学院工学系研究科電気系工学専攻在学中  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 活動経歴
+### ロボカップジュニア  
+- ロボカップジュニアジャパンオープン2013東京：6位入賞  
+- ロボカップジュニア日本大会2014埼玉大学
 
+### 缶サット甲子園
+- 缶サット甲子園2015全国大会  
 
-[jekyll-organization]: https://github.com/jekyll
+### ARLISS
+- 2019年度大会：2位（0mゴール）
