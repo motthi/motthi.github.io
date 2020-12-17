@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Motthi20
 github_username: Motthi
+timezone: Asia/Tokyo
 
 excerpt_separator: <!--more-->
 
