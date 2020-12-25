@@ -22,7 +22,8 @@ title: Motthi's Website
 title_image: "/resource/img/ARLISS_TUS.jpg"
 email: k11000660@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ISASで研究している学生（修士）<br>専門は惑星探査ローバ
+  "ISASで研究している学生（修士）  
+  専門は惑星探査ローバ"
 avatar: /resource/img/ARLISS_TUS.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://motthi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
