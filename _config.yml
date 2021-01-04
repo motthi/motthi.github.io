@@ -19,17 +19,19 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Motthi's Website
+author: Motthi
 image: "/resource/img/ARLISS_TUS.jpg"
 avatar: /resource/img/ARLISS_TUS.jpg
 email: k11000660@gmail.com
 description: ISASで惑星探査ローバについて研究している修士の学生
+type: website
 baseurl: ""
 url: "https://motthi.github.io"
 twitter_username: Motthi20
 github_username: Motthi
 timezone: Asia/Tokyo
 google_analytics: G-4G4NFKNZMV
-
+lang: "ja"
 excerpt_separator: <!--more-->
 
 header:

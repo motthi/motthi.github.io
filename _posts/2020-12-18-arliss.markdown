@@ -4,6 +4,8 @@ title: "ARLISSに参加した話"
 date: 2020-12-18 00:00:00 +0900
 categories: ARLISS
 summary: "「宇宙工学の登竜門：ARLISS」に参加したときの裏話などなど…"
+description: "「宇宙工学の登竜門：ARLISS」に参加したときの裏話などなど…"
+image: "/resource/img/posts/2020-12-18/rover_apo2.jpg"
 ---
 
 本記事は[JAXA 学生 Advent Calendar 2020](https://adventar.org/calendars/5525)の18日目の記事です．
@@ -19,7 +21,7 @@ ARLISS（A Rocket Launch for International Student Satellites）は学生向け�
 例年9月ごろにアメリカネバダ州のブラックロック砂漠で開催されます．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/arliss_desert.jpg" width="400"><br>ブラックロック砂漠
+	<img src="/resource/img/posts/2020-12-18/arliss_desert.jpg" width="400" alt="ブラックロック砂漠"><br>ブラックロック砂漠
 </div>
 
 参加チームはCanサイズ [^1] の模擬衛星（Cansat）を作成し，それをロケットにのせ上空約4kmまで打上げます[^2]．
@@ -36,7 +38,7 @@ ARLISS（A Rocket Launch for International Student Satellites）は学生向け�
 私はランバック部門に参加しました．下図はランバックの流れです．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/runback_img.png" width="400"><br>ランバックの流れ
+	<img src="/resource/img/posts/2020-12-18/runback_img.png" width="400" alt="ランバックの流れ"><br>ランバックの流れ
 </div>
 
 [^1]: といっても結構デカいです，直径15cm，幅25cmの円柱に収まる大きさ
@@ -60,7 +62,7 @@ ARLISS（A Rocket Launch for International Student Satellites）は学生向け�
 下図は開発したローバです．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/rover_apo.jpg" width="400"><br>作成したローバ：APO
+	<img src="/resource/img/posts/2020-12-18/rover_apo1.jpg" width="400" alt="ローバ"><br>作成したローバ：APO
 </div>
 
 直径16.5cm[^3]，横幅24.0cm，重量1040g です．  
@@ -198,8 +200,8 @@ EMが試験に使う機体になります．
 - 落下試験  
 「落下」という状況を作り出し，パラシュートが展開するか，安全に着地するか，シーケンシャルに動作するかなどを検証します．
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/falltest2.jpg" height="300">
-	<img src="/resource/img/posts/2020-12-18/falltest1.jpg" height="300"><br>
+	<img src="/resource/img/posts/2020-12-18/falltest2.jpg" height="300" alt="落下試験">
+	<img src="/resource/img/posts/2020-12-18/falltest1.jpg" height="300" alt="落下試験"><br>
 	落下試験の様子@野田キャンパス講義棟<br>
 	<font size="1">
 		写真のようにCansatをつるし，落下させる
@@ -210,7 +212,7 @@ EMが試験に使う機体になります．
 打上げ時や走行時の振動を想定し振動を与え，どれほど劣化するかを測定します（壊れないかどうかを調べるわけではありません）．
 またパラシュートの開傘時の衝撃も同様に測定します（衝動試験）．
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/vibrationtest.png" width="400"><br>
+	<img src="/resource/img/posts/2020-12-18/vibrationtest.png" width="400" alt="振動試験"><br>
 	振動試験@東大中須賀研<br>
 	<font size="1">中須賀研の方々，ありがとうございました</font>
 </div>
@@ -219,7 +221,7 @@ EMが試験に使う機体になります．
 最初から最後まで通しでミッションを行えるかを試験します．
 打上げの状況は再現できないため，基本的には落下してからという形になります．
 <div align="center">
-	<video controls src="https://motthi.github.io/resource/img/posts/2020-12-18/end2end.mp4" width="400"></video><br>
+	<video controls src="https://motthi.github.io/resource/img/posts/2020-12-18/end2end.mp4" width="400" alt="EndToEnd試験"></video><br>
 	EndToEnd試験@理科大野田キャンパス中庭
 </div>
 
@@ -248,10 +250,10 @@ ARLISSに出場するためには審査書を提出し，
 
 <table align="center" border="none">
 	<td align="center">
-		<img src="/resource/img/posts/2020-12-18/rover_img_nosunglass2.jpg" width="300"><br>何とか確認できるゴール画像
+		<img src="/resource/img/posts/2020-12-18/rover_img_nosunglass2.jpg" width="300" alt="白飛び画像"><br>何とか確認できるゴール画像
 	</td>
 	<td align="center">
-		<img src="/resource/img/posts/2020-12-18/rover_img_nosunglass1.jpg" width="300"><br>完全に白飛びしたゴール画像
+		<img src="/resource/img/posts/2020-12-18/rover_img_nosunglass1.jpg" width="300" alt="白飛び画像"><br>完全に白飛びしたゴール画像
 	</td>
 </table>
 
@@ -262,10 +264,10 @@ ARLISSに出場するためには審査書を提出し，
 
 <table align="center" border="none">
 	<td align="center">
-		<img src="/resource/img/posts/2020-12-18/rover_img_sunglass2.jpg" width="300"><br>サングラスを被せたときの画像（近距離）
+		<img src="/resource/img/posts/2020-12-18/rover_img_sunglass2.jpg" width="300" alt="ゴール画像"><br>サングラスを被せたときの画像（近距離）
 	</td>
 	<td align="center">
-		<img src="/resource/img/posts/2020-12-18/rover_img_sunglass1.jpg" width="300"><br>サングラスを被せたときの画像（遠距離）
+		<img src="/resource/img/posts/2020-12-18/rover_img_sunglass1.jpg" width="300" alt="ゴール画像"><br>サングラスを被せたときの画像（遠距離）
 	</td>
 </table>
 
@@ -285,7 +287,7 @@ ARLISSに出場するためには審査書を提出し，
 下の図は気圧センサの実際のデータですが，降下中にバッサリ切れています．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/bme280_first.png" width="400"><br>第1射：気圧センサのデータ<br>
+	<img src="/resource/img/posts/2020-12-18/bme280_first.png" width="400" alt="気圧センサのデータ"><br>第1射：気圧センサのデータ<br>
 	<font size="1">青：スリープフェーズ，橙：放出判定フェーズ，灰：着地判定フェーズ</font>
 </div>
 
@@ -316,10 +318,16 @@ ARLISSに出場するためには審査書を提出し，
 
 #### 打上げ～着地
 着地判定までは完璧で，すべてが正常に処理されました．  
+
+<div align="center">
+	<video controls src="https://motthi.github.io/resource/img/posts/2020-12-18/launch_mov.MOV" width="400" alt="打上げ"></video><br>
+	打上げの様子
+</div>
+
 気圧センサのデータが美しいです（下図）．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/bme280_second.png" width="400"><br>第2射：気圧センサのデータ<br>
+	<img src="/resource/img/posts/2020-12-18/bme280_second.png" width="400" alt="気圧センサのデータ"><br>第2射：気圧センサのデータ<br>
 	<font size="1">橙：放出判定フェーズ，灰：着地判定フェーズ</font>
 </div>
 
@@ -334,7 +342,7 @@ ARLISSに出場するためには審査書を提出し，
 下の画像の通り，パラシュートはないため正常に離脱しました．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/para_img.jpg" width="400"><br>パラシュート確認の画像<br>
+	<img src="/resource/img/posts/2020-12-18/para_img.jpg" width="400" alt="パラシュート確認画像"><br>パラシュート確認の画像<br>
 </div>
 
 #### ゴール付近へ走行
@@ -345,7 +353,7 @@ ARLISSに出場するためには審査書を提出し，
 下の画像のようにローバの後ろをついていくこと約1時間…．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/rover_running.jpg" width="400"><br>走行中はひたすらローバを尾行<br>
+	<img src="/resource/img/posts/2020-12-18/rover_running.jpg" width="400" alt="走行中のローバ"><br>走行中はひたすらローバを尾行<br>
 	<font size="1">画像右側から出ているのは八木宇田アンテナ</font>
 </div>
 
@@ -355,7 +363,7 @@ ARLISSに出場するためには審査書を提出し，
 （あまりにも順調で，メンバー全員大興奮）
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/goal_appr0.jpg" width="400"><br>ローバが撮影したゴール画像<br>
+	<img src="/resource/img/posts/2020-12-18/goal_appr0.jpg" width="400" alt="ゴール画像"><br>ローバが撮影したゴール画像<br>
 </div>
 
 赤いコーンがゴールで，ぴったりくっつけることができたら0mゴールとなります．
@@ -365,38 +373,38 @@ ARLISSに出場するためには審査書を提出し，
 画像中の赤い領域の範囲が閾値以上になるとゴール判定となります．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/goal_detect.png" width="600"><br>画像解析<br>
+	<img src="/resource/img/posts/2020-12-18/goal_detect.png" width="600" alt="ゴールの画像解析"><br>ゴール画像解析<br>
 	<font size="1">左から，元画像，ターゲット，赤い部分の領域<br>見にくいですが背景のターミナルに分析結果が出力されています</font>
 </div>
 
 渡米前2週間は毎日のように検証し試行錯誤していたパートなので，メンバーの興奮とは裏腹にローバは淡々とゴールへ近づきます．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/goal_appr1.jpg" width="200">
-	<img src="/resource/img/posts/2020-12-18/goal_appr2.jpg" width="200">
-	<img src="/resource/img/posts/2020-12-18/goal_appr3.jpg" width="200">
-	<img src="/resource/img/posts/2020-12-18/goal_appr4.jpg" width="200">
-	<img src="/resource/img/posts/2020-12-18/goal_appr5.jpg" width="200">
-	<img src="/resource/img/posts/2020-12-18/goal_appr6.jpg" width="200"><br>
+	<img src="/resource/img/posts/2020-12-18/goal_appr1.jpg" width="200" alt="ゴール画像">
+	<img src="/resource/img/posts/2020-12-18/goal_appr2.jpg" width="200" alt="ゴール画像">
+	<img src="/resource/img/posts/2020-12-18/goal_appr3.jpg" width="200" alt="ゴール画像">
+	<img src="/resource/img/posts/2020-12-18/goal_appr4.jpg" width="200" alt="ゴール画像">
+	<img src="/resource/img/posts/2020-12-18/goal_appr5.jpg" width="200" alt="ゴール画像">
+	<img src="/resource/img/posts/2020-12-18/goal_appr6.jpg" width="200" alt="ゴール画像"><br>
 	ゴールに近づきながらローバが撮影した写真
 </div>
 
 そして・・・
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/rover_0m.jpg" width="600">
+	<img src="/resource/img/posts/2020-12-18/rover_0m.jpg" width="600" alt="0mゴール">
 	<br>0mゴール達成！<br>
 </div>
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/arliss_ridai.jpg" width="600"><br>
+	<img src="/resource/img/posts/2020-12-18/arliss_ridai.jpg" width="600" alt="0mゴール"><br>
 	<font size="1">※僕のプロフィール写真です</font>
 </div>
 
 驚くほどスムーズで，まるで練習かのように0mゴールを達成しました．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/arliss_member.jpg" width="200"><br>プロジェクトメンバで記念写真<br>
+	<img src="/resource/img/posts/2020-12-18/arliss_member.jpg" width="200" alt="0mゴール"><br>プロジェクトメンバで記念写真<br>
 	<font size="1"><a href="https://www.kimura-lab.net/?p=5979">木村研究室のブログ</a>より</font>
 </div>
 
@@ -421,7 +429,7 @@ ARLISSに出場するためには審査書を提出し，
 |     | 5405.4      | ゴール判定                                  |
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/rover_path.png" width="600"><br>全体経路<br>
+	<img src="/resource/img/posts/2020-12-18/rover_path.png" width="600" alt="経路"><br>全体経路<br>
 	<font size="1">
 		青：スリープフェーズ，橙：放出判定フェーズ，灰：着地判定フェーズ，黄：走行フェーズ<br>
 		スリープフェーズで移動しているのはローバをロケットに搭載後，射点へ移動したため
@@ -436,7 +444,7 @@ ARLISSに出場するためには審査書を提出し，
 第2射のあと，ローバが上空で撮影した画像を確認したところ，驚きのものが写っていました．
 
 <div align="center">
-	<img src="/resource/img/posts/2020-12-18/rover_sky.jpg" width="600"><br>パラシュート開傘直後に撮影した写真
+	<img src="/resource/img/posts/2020-12-18/rover_sky.jpg" width="600" alt="上空での画像"><br>パラシュート開傘直後に撮影した写真
 </div>
 
 打上げに使用したロケットの部品です．
