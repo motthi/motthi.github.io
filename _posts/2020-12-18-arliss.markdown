@@ -320,7 +320,7 @@ ARLISSに出場するためには審査書を提出し，
 着地判定までは完璧で，すべてが正常に処理されました．  
 
 <div align="center">
-	<video controls src="https://motthi.github.io/resource/img/posts/2020-12-18/launch_mov.MOV" width="400" alt="打上げ"></video><br>
+	<video controls src="https://motthi.github.io/resource/img/posts/2020-12-18/launch_mov.MOV" height="400" alt="打上げ"></video><br>
 	打上げの様子
 </div>
 
