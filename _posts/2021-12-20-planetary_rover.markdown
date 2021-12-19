@@ -105,7 +105,7 @@ permalink: /post/:year-:month-:dayT:hour-:minute-:second
 旧ソ連が開発した月探査ローバで，世界で初めて地球以外の天体に着陸した遠隔操作型ローバです．
 
 
-### Lunar Roving Vehicle(NASA;1971~1972)<!-- \{% cite .* %\} -->
+### Lunar Roving Vehicle(NASA;1971~1972)
 - ミッション名：アポロ
 - サイズ：3.1m x 2.3m x 1.14 m
 - 質量：210kg
@@ -157,7 +157,7 @@ permalink: /post/:year-:month-:dayT:hour-:minute-:second
 
 ここでは「行きたい場所へ」の探査を実現するローバを一つ紹介します．
 
-#### Moon Ranger(カーネギーメロン大学)  <!-- \{% cite .* %\} -->
+#### Moon Ranger(カーネギーメロン大学)
 
 <div align="center">
 	<img src="/resource/img/posts/2021-12-20/moon_ranger.png" height="300" alt="Moon Ranger"><br>
@@ -166,7 +166,7 @@ permalink: /post/:year-:month-:dayT:hour-:minute-:second
 
 
 月極域を探査するためにカーネギーメロン大学が研究・開発中のローバです．  
-太陽光パネルが側面を向いているのが特徴的ですが，これは月極域では太陽光が真横から入るためです．太陽光が上から照らされないため，地面のほとんどが影となり地形を判別できないことが考えられます．そのような場面を想定し，カーネギーメロン大学では地面にレーザー光をあて，その形状から地形を推定する研究を行っています<!-- \{% cite .* %\} -->．
+太陽光パネルが側面を向いているのが特徴的ですが，これは月極域では太陽光が真横から入るためです．太陽光が上から照らされないため，地面のほとんどが影となり地形を判別できないことが考えられます．そのような場面を想定し，カーネギーメロン大学では地面にレーザー光をあて，その形状から地形を推定する研究を行っています．
 
 
 
@@ -198,7 +198,7 @@ permalink: /post/:year-:month-:dayT:hour-:minute-:second
 これまでに計6台のローバ，2021年現在もなお3台のローバが活動中です．
 
 ## 過去・現在の火星探査ローバ
-### Sojourner(NASA;1998)  <!-- \{% cite .* %\} -->
+### Sojourner(NASA;1998)
 - ミッション名：Mars Path Finder
 - サイズ：-
 - 質量：-
@@ -261,7 +261,7 @@ Curiosityの探査成果の1つに下の画像があります．
 なんてことない岩の写真に見えますが，岩に入っている横方向の線の角度が上側と下側でわずかに異なります．これは地質学の用語で斜交層理と言われるもので，かつて液体が流れていたという重要な証拠です．火星にかつて水が存在していた可能性が高まったという点で，Curiosityによる探査で得られた重要な成果です．
 
 
-### Perseverance(NASA;2021~) <!-- \{% cite .* %\} -->
+### Perseverance(NASA;2021~)
 - ミッション名：Mars 2020
 - サイズ：2.9m x 2.8m x 2.2m
 - 質量：1025kg
@@ -303,14 +303,14 @@ Perseveranceから遅れること3か月，2021年5月に中国の探査機祝�
 ここでは現在開発・研究中の探査ローバについて紹介いたします．
 
 
-### Axelローバ(NASA) <!-- \{% cite .* %\} -->
+### Axelローバ(NASA)
 Perseveranceのような大型ローバが探査できない地形を探査するために，NASA/JPLはテザー機構を持つローバDuAxelを開発しています．
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GUNWVroyys4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 DuAxelローバは前後で2つ分裂することができます．分割した2つはテザーで繋がれているため，片方が崖の上で支えとなり，もう一方は崖を懸垂下降するような移動を行うことが可能です．観測機器を搭載することもできるため，崖の地層を分析するといったことも可能です．
 
-移動の際テザーが突起物に引っ掛からないような経路を探索する研究も行われており<!-- \{% cite .* %\} -->，テザーが絡まってしまう心配はなさそうです．
+移動の際テザーが突起物に引っ掛からないような経路を探索する研究も行われており，テザーが絡まってしまう心配はなさそうです．
 
 ### Rosalind Franklin(ESA)
 (執筆中)
@@ -331,7 +331,7 @@ DuAxelローバは前後で2つ分裂することができます．分割した2
 	MINERVA(Image Credit:JAXA)
 </div>
 
-MINERVAは小惑星イトカワの近くで投下されましたが，放出ポイントが高かったため残念ながらイトカワに着陸することができませんでした．MINERVAそのものは正常に動作していたため，放出直後に撮影した写真を親機「はやぶさ」経由で地球へ送信することができました<!-- \{% cite .* %\} -->．
+MINERVAは小惑星イトカワの近くで投下されましたが，放出ポイントが高かったため残念ながらイトカワに着陸することができませんでした．MINERVAそのものは正常に動作していたため，放出直後に撮影した写真を親機「はやぶさ」経由で地球へ送信することができました．
 
 初号機の屈辱を果たすべく「はやぶさ2」ではMINERVA-IIが搭載されました．MINERVA-IIはMINERVA-II Rover1A/BとMINERVA-II Rover2の2機に分かれています．
 まずはじめにMINERVA-II Rover1A/Bが放出されリュウグウに無事着陸しました．
@@ -346,7 +346,7 @@ MINERVA-IIはローバなので当然のことながら移動機構を持って�
 
 <div align="center">
 	<img src="/resource/img/posts/2021-12-20/minerva_photo.jpeg" height="300" alt="MINERVA_phot"><br>
-	MINERVA-II Rover1Bが撮影したリュウグウ表面の画像<!-- \{% cite .* %\} -->
+	MINERVA-II Rover1Bが撮影したリュウグウ表面の画像
 </div>
 
 MINERVA-II2は電源関係でトラブルが生じてしまい，残念ながらリュウグウへの投下はされませんでした．代わりに，リュウグウの周回軌道に投入し，リュウグウの重力場の観測に用いられました．ちなみに，小天体を周回する人工衛星を実現したことも世界初です．
@@ -358,8 +358,8 @@ MINERVA-II2は電源関係でトラブルが生じてしまい，残念ながら
 また宇宙科学研究所ではローバの研究を行っている研究室もあります．宇宙探査やロボティクスに興味のある方はぜひお越しください．
 
 
-<!-- # 参考文献
-{% bibliography --cited %} -->
+# 参考文献
+{% bibliography --cited %}
 
 # 脚注
 
