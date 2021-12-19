@@ -3,9 +3,9 @@ layout: post
 title: "惑星探査ローバのお話し"
 date: 2021-12-20 00:00:00 +0900
 category: Planetery Rover
-summary: ""
-description: ""
-image: "/resource/img/posts/2020-12-20/rover_thumbnail.jpg"
+summary: "これまでの探査ローバ，これからの探査ローバ"
+description: "これまでの探査ローバ，これからの探査ローバ"
+image: "/resource/img/posts/2021-12-20/rover_thumbnail.jpg"
 url: /post/:year-:month-:dayT:hour-:minute-:second
 permalink: /post/:year-:month-:dayT:hour-:minute-:second
 ---
