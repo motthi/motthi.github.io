@@ -45,9 +45,17 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-redirect-from
+
+scholar:
+  style: ieee-with-url
+  bibliography: test.bib
+  bibliography_template: <addr></addr>{{reference}}<br>
+  bibliography_item_tag: none
 
 gems:
   - jekyll-sitemap
+  - jekyll-scholor
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -67,3 +75,4 @@ gems:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
